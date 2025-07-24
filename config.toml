@@ -1,0 +1,11 @@
+simulation = true
+debug_mode = true
+max_retries = 3
+check_interval = 0.5
+purchase_amount_usdt = 6.0
+min_required_quantity = 0.0001
+profit_target_percent = 50.0
+use_websocket = true
+telegram_enabled = true
+telegram_bot_token = "7755196010:AAGmdFIlKRZUeb3412DyosRpgUn7ORoYXYk"
+telegram_chat_id = "1977638111"
